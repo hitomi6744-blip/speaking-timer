@@ -1,0 +1,10 @@
+{
+  "name": "Japanese Speaking Practice Timer",
+  "short_name": "Speaking Timer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf8ef",
+  "theme_color": "#176b57",
+  "description": "Free Japanese speaking practice session timer",
+  "icons": []
+}
